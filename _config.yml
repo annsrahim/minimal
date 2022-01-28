@@ -1,6 +1,16 @@
-title: Anns Rahim
+title: <p align="center"> Anns Rahim </p>
 logo: /assets/img/profile_pic.png
-description: Portfolio of Data Science Projects.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/anns-rahim-41a780130/">LinkedIn</a> |
+  <a href="https://github.com/annsrahim/">GitHub</a>
+  
+  <br>   
+ I'm a Mobile application developer with 7 years of experience
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
